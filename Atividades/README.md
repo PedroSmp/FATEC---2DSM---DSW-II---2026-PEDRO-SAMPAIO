@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# ATIVIDADE 2 - ROTAS 
+# OBJETIVO 👓
+Criar um aplicativo de sorteio de números (semelhante a mega-sena).
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
